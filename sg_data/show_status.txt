@@ -1,0 +1,10 @@
+[Status]
+meaning = "0:Renewed|50:Rumoured End|100:Ending|200:Concluded|210:Cancelled"
+
+[Shows]
+# meaning_id = "show_id:tvsrc_id|..."
+0 = "259866:1|266189:1|279121:1"
+50 = "248742:1"
+100 = "266609:1"
+200 = "80349:1|258171:1"
+210 = "164501:1|265074:1"
